@@ -44,7 +44,7 @@ class Tictactoe extends React.Component {
         winnerLine: "Match Won by O",
       });
     }
-    if (this.state.totalMoves == 9) {
+    if (this.state.totalMoves == 8) {
       this.setState({
         gameEnded: true,
         winner: "draw",

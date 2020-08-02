@@ -72,7 +72,8 @@ p {
   width: 150px;
   height: 50px;
   border-radius: 7px;
-  font-size: 15px;
+  font-size: 17px;
+  color: white;
   font-weight: 700;
   background: blue;
   border: none;
